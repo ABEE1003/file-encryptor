@@ -1,2 +1,2 @@
-# file encryptor
-This project is a file encryptor in c++ language. My c++ program showcases expertise in encryption ,fortifying digital infrastructures for confidentiality ,integrity and availability of critical information assets.  such as Bank details ,Gpay passwords, and card details.
+# file encryptor 
+This project is a file encryptor in c++ language. My c++ program showcases expertise in encryption ,fortifying digital infrastructures for confidentiality ,integrity and availability of critical information assets.  such as Bank details ,Gpay passwords, and card details.This project has crucial role in the domain of cyber security and analysis.This program prevents various cyber threats such as unauthorised access to personal details, dumpster diving,and so on . 
